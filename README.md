@@ -1,1 +1,1 @@
-Formulario hecho en React con Formik y Yup para creacion y validacion de campos.
+Formulario hecho en React con Formik + Yup para creación y validación de campos.
