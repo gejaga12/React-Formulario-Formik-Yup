@@ -53,7 +53,7 @@ margin-top: 1.5em;
     outline: 1px solid #f8f9f9
 }
 `;
-export const ContainerForm = styled.div`
+export const ContainerForm = styled.form`
   width: 20em;
   height: auto;
   margin: 12em;
